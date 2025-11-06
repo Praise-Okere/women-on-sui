@@ -84,7 +84,7 @@ export default function Merch() {
                       : "bg-muted text-muted-foreground cursor-not-allowed"
                   }`}
                 >
-                  {item.status === "Available" ? "Shop Now" : "Coming Soon"}
+                  {item.status === "Available" ? "Available" : "Coming Soon"}
                 </button>
               </div>
             ))}
