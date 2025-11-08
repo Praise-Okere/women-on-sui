@@ -5,7 +5,7 @@ export default function JoinForm() {
     <section className="flex flex-col items-center justify-center py-20 bg-white/80 backdrop-blur-sm text-center">
       <h2 className="text-3xl font-bold text-blue-700 mb-4">Join Our Community 🌸</h2>
       <p className="text-gray-700 mb-6 max-w-xl">
-        Be part of the Women on Sui network — learn, build, and grow with other amazing women in Web3.
+        Be part of the Women on Sui Network — learn, build, and grow with other amazing women in Web3.
       </p>
 
       <a
